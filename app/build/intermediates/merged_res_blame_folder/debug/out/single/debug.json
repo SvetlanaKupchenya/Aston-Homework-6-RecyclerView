@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-merged_res-11:\\menu_popupmenu.xml.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-main-13:\\menu\\popupmenu.xml"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-merged_res-11:\\layout_contact_list.xml.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-main-13:\\layout\\contact_list.xml"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-merged_res-11:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-main-13:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-merged_res-11:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-main-13:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-merged_res-11:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-main-13:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-merged_res-11:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-main-13:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-merged_res-11:\\layout_contact_detail.xml.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-main-13:\\layout\\contact_detail.xml"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-merged_res-11:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-main-13:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-merged_res-11:\\menu_options_menu.xml.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-main-13:\\menu\\options_menu.xml"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-merged_res-11:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-main-13:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-merged_res-11:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-main-13:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-merged_res-11:\\layout_activity_contact_list.xml.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-main-13:\\layout\\activity_contact_list.xml"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-merged_res-11:\\layout-w900dp_contact_list.xml.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-main-13:\\layout-w900dp\\contact_list.xml"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-merged_res-11:\\xml_searchable.xml.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-main-13:\\xml\\searchable.xml"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-merged_res-11:\\layout_activity_contact_detail.xml.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-main-13:\\layout\\activity_contact_detail.xml"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-merged_res-11:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-main-13:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.android.homework6recyclerview.app-merged_res-11:/layout_contact_list.xml.flat",
+        "source": "com.example.android.homework6recyclerview.app-main-13:/layout/contact_list.xml"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-merged_res-11:\\drawable_error.png.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-main-13:\\drawable\\error.png"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-merged_res-11:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-main-13:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-merged_res-11:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-main-13:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-merged_res-11:\\layout-land_contact_list.xml.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-main-13:\\layout-land\\contact_list.xml"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-merged_res-11:\\layout_contact_list_content.xml.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-main-13:\\layout\\contact_list_content.xml"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-merged_res-11:\\drawable_beatles_anthology_box.jpg.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-main-13:\\drawable\\beatles_anthology_box.jpg"
+    },
+    {
+        "merged": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-merged_res-11:\\drawable_ic_baseline_manage_search_24.xml.flat",
+        "source": "E:\\Users\\Admin\\.gradle\\daemon\\7.4\\com.example.android.homework6recyclerview.app-main-13:\\drawable\\ic_baseline_manage_search_24.xml"
+    }
+]
